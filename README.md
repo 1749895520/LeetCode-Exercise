@@ -27,3 +27,13 @@
 [题目详情](https://leetcode.cn/problems/merge-intervals/description/)
 
 [题目解答——排序 + lambda](src/main/java/com/datastructure/array/p56/java/common/Solution.md)
+
+## Day003 —— 2022.12.12
+
+### 学习 ——《数组和字符串》——二维数组简介
+
+#### p48 旋转矩阵
+
+[题目详情](https://leetcode.cn/problems/rotate-image/)
+
+[题目解答——数学](src/main/java/com/datastructure/array/p48/java/common/Solution.md)
