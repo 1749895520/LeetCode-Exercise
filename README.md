@@ -37,3 +37,19 @@
 [题目详情](https://leetcode.cn/problems/rotate-image/)
 
 [题目解答——数学](src/main/java/com/datastructure/array/p48/java/common/Solution.md)
+
+## Day004 —— 2022.12.13
+
+### labuladong —— 数组&字符串 —— 前缀和数组
+
+#### p303 区域和检索 - 数组不可变
+
+[题目详情](https://leetcode.cn/problems/range-sum-query-immutable/description/)
+
+[题目解答——前缀和数组](src/main/java/com/datastructure/array/p303/java/preSum/NumArray.md)
+
+#### p304 二维区域和检索 - 矩阵不可变
+
+[题目详情](https://leetcode.cn/problems/range-sum-query-2d-immutable/description/)
+
+[题目解答——前缀和数组](src/main/java/com/datastructure/array/p304/java/preSum/NumMatrix.md)
