@@ -53,3 +53,19 @@
 [题目详情](https://leetcode.cn/problems/range-sum-query-2d-immutable/description/)
 
 [题目解答——前缀和数组](src/main/java/com/datastructure/array/p304/java/preSum/NumMatrix.md)
+
+## Day005 —— 2022.12.14
+
+### labuladong —— 数组&字符串 —— 差分数组
+
+#### p1094 拼车
+
+[题目详情](https://leetcode.cn/problems/car-pooling/description/)
+
+[题目解答——差分数组](src/main/java/com/datastructure/array/p1094/java/differ/Solution.md)
+
+#### p1109 航班预订统计
+
+[题目详情](https://leetcode.cn/problems/corporate-flight-bookings/description/)
+
+[题目解答——差分数组](src/main/java/com/datastructure/array/p1109/java/differ/Solution.md)
