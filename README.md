@@ -69,3 +69,25 @@
 [题目详情](https://leetcode.cn/problems/corporate-flight-bookings/description/)
 
 [题目解答——差分数组](src/main/java/com/datastructure/array/p1109/java/differ/Solution.md)
+
+## Day006 —— 2022.12.15
+
+### labuladong —— 数组&字符串 —— 双指针解决链表问题
+
+#### p21 合并两个有序链表
+
+[题目详情](https://leetcode.cn/problems/merge-two-sorted-lists/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/linkedList/p21/java/doublePoints/Solution.md)
+
+#### p86 分隔链表
+
+[题目详情](https://leetcode.cn/problems/merge-two-sorted-lists/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/linkedList/p86/java/doublePoints/Solution.md)
+
+#### p19 删除链表的倒数第 N 个结点
+
+[题目详情](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/linkedList/p19/java/doublePoints/Solution.md)
