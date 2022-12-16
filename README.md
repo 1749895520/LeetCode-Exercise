@@ -91,3 +91,31 @@
 [题目详情](https://leetcode.cn/problems/remove-nth-node-from-end-of-list/description/)
 
 [题目解答——双指针](src/main/java/com/datastructure/linkedList/p19/java/doublePoints/Solution.md)
+
+## Day007 —— 2022.12.16
+
+### labuladong —— 数组&字符串 —— 双指针解决链表问题
+
+#### p141 环形链表
+
+[题目详情](https://leetcode.cn/problems/linked-list-cycle/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/linkedList/p141/java/doublePoints/Solution.md)
+
+#### p142 环形链表 II
+
+[题目详情](https://leetcode.cn/problems/linked-list-cycle-ii/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/linkedList/p142/java/doublePoints/Solution.md)
+
+#### p160 相交链表
+
+[题目详情](https://leetcode.cn/problems/intersection-of-two-linked-lists/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/linkedList/p160/java/doublePoints/Solution.md)
+
+#### p23 合并k个升序链表
+
+[题目详情](https://leetcode.cn/problems/merge-k-sorted-lists/description/)
+
+[题目解答——优先队列](src/main/java/com/datastructure/linkedList/p23/java/doublePoints/Solution.md)
