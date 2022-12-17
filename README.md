@@ -119,3 +119,37 @@
 [题目详情](https://leetcode.cn/problems/merge-k-sorted-lists/description/)
 
 [题目解答——优先队列](src/main/java/com/datastructure/linkedList/p23/java/doublePoints/Solution.md)
+
+## Day007 —— 2022.12.16
+
+### labuladong —— 数组&字符串 —— 双指针解决数组问题
+
+#### p26 删除有序数组中的重复项
+
+[题目详情](https://leetcode.cn/problems/remove-duplicates-from-sorted-array/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/array/p26/java/doublePoints/Solution.md)
+
+#### p27 移除元素
+
+[题目详情](https://leetcode.cn/problems/remove-element/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/array/p27/java/doublePoints/Solution.md)
+
+#### p283 移动零
+
+[题目详情](https://leetcode.cn/problems/move-zeroes/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/array/p283/java/doublePoints/Solution.md)
+
+#### p167 两数之和 II - 输入有序数组
+
+[题目详情](https://leetcode.cn/problems/two-sum-ii-input-array-is-sorted/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/array/p167/java/doublePoints/Solution.md)
+
+#### p344 反转字符串
+
+[题目详情](https://leetcode.cn/problems/reverse-string/description/)
+
+[题目解答——双指针](src/main/java/com/datastructure/string/p344/java/doublePoints/Solution.md)
