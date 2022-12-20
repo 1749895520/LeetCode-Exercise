@@ -166,7 +166,7 @@
 
 ## Day009 —— 2022.12.19
 
-### labuladong —— 数组&字符串 —— 滑动窗口
+### labuladong —— 数组&字符串 —— 二分查找
 
 #### p704 二分查找
 
@@ -174,3 +174,26 @@
 
 [题目解答——二分查找](src/main/java/com/datastructure/array/p704/java/binarySearch/Solution.md)
 
+## Day010 —— 2022.12.20
+
+### labuladong —— 数组&字符串 —— 二分查找
+
+#### p875 爱吃香蕉的珂珂
+
+[题目详情](https://leetcode.cn/problems/koko-eating-bananas/description/)
+
+[题目解答——二分查找](src/main/java/com/datastructure/array/p875/java/binarySearch/Solution.md)
+
+#### p410 分割数组的最大值
+
+[题目详情](https://leetcode.cn/problems/split-array-largest-sum/description/)
+
+[题目解答——二分查找](src/main/java/com/datastructure/array/p410/java/binarySearch/Solution.md)
+
+### 谷歌学长的题解指南 —— 贪心算法
+
+#### p455 分发饼干
+
+[题目详情](https://leetcode.cn/problems/assign-cookies/)
+
+[题目解答——贪心算法](src/main/java/com/datastructure/array/p455/java/greedy/Solution.md)
