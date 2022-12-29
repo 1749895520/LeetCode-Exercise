@@ -235,3 +235,25 @@
 [题目详情](https://leetcode.cn/problems/number-of-provinces/description/)
 
 [题目解答——dfs搜索](src/main/java/com/datastructure/array/p547/java/dfs/Solution.md)
+
+## Day013 —— 2022.12.29
+
+### labuladong —— 队列&栈 —— 栈
+
+#### p20 有效的括号
+
+[题目详情](https://leetcode.cn/problems/valid-parentheses/description/)
+
+[题目解答——栈](src/main/java/com/datastructure/string/p20/java/stack/Solution.md)
+
+#### p921 使括号有效的最少添加
+
+[题目详情](https://leetcode.cn/problems/minimum-add-to-make-parentheses-valid/description/)
+
+[题目解答——栈](src/main/java/com/datastructure/string/p921/java/stack/Solution.md)
+
+#### p1541 平衡括号字符串的最少插入次数
+
+[题目详情](https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
+
+[题目解答——栈](src/main/java/com/datastructure/string/p1541/java/stack/Solution.md)
