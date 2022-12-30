@@ -257,3 +257,13 @@
 [题目详情](https://leetcode.cn/problems/minimum-insertions-to-balance-a-parentheses-string/description/)
 
 [题目解答——栈](src/main/java/com/datastructure/string/p1541/java/stack/Solution.md)
+
+## Day014 —— 2022.12.30
+
+### labuladong —— 队列&栈 —— 栈
+
+#### p496 下一个更大元素 I
+
+[题目详情](https://leetcode.cn/problems/next-greater-element-i/description/)
+
+[题目解答——栈](src/main/java/com/datastructure/array/p496/java/stack/Solution.md)
