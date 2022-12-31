@@ -267,3 +267,13 @@
 [题目详情](https://leetcode.cn/problems/next-greater-element-i/description/)
 
 [题目解答——栈](src/main/java/com/datastructure/array/p496/java/stack/Solution.md)
+
+## Day015 —— 2022.12.31
+
+### labuladong —— 队列&栈 —— 栈
+
+#### p503 下一个更大元素 II
+
+[题目详情](https://leetcode.cn/problems/next-greater-element-ii/description/)
+
+[题目解答——栈](src/main/java/com/datastructure/array/p503/java/stack/Solution.md)
