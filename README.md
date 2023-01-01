@@ -277,3 +277,13 @@
 [题目详情](https://leetcode.cn/problems/next-greater-element-ii/description/)
 
 [题目解答——栈](src/main/java/com/datastructure/array/p503/java/stack/Solution.md)
+
+## Day016 —— 2023.1.1
+
+### labuladong —— 队列&栈 —— 栈
+
+#### p739 每日温度
+
+[题目详情](https://leetcode.cn/problems/daily-temperatures/description/)
+
+[题目解答——栈](src/main/java/com/datastructure/array/p739/java/stack/Solution.md)
