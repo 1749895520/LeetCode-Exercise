@@ -287,3 +287,13 @@
 [题目详情](https://leetcode.cn/problems/daily-temperatures/description/)
 
 [题目解答——栈](src/main/java/com/datastructure/array/p739/java/stack/Solution.md)
+
+## Day017 —— 2023.1.2
+
+### labuladong —— 队列&栈 —— 队列
+
+#### p239 滑动窗口最大值
+
+[题目详情](https://leetcode.cn/problems/sliding-window-maximum/description/)
+
+[题目解答——单调队列](src/main/java/com/datastructure/array/p239/java/monotonicQueue/Solution.md)
