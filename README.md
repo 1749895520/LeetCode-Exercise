@@ -297,3 +297,13 @@
 [题目详情](https://leetcode.cn/problems/sliding-window-maximum/description/)
 
 [题目解答——单调队列](src/main/java/com/datastructure/array/p239/java/monotonicQueue/Solution.md)
+
+## Day018 —— 2023.1.6
+
+### labuladong —— 队列&栈 —— 队列
+
+#### p316 去除重复元素
+
+[题目详情](https://leetcode.cn/problems/remove-duplicate-letters/description/)
+
+[题目解答——单调队列](src/main/java/com/datastructure/string/p316/java/stack/Solution.md)
