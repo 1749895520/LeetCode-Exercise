@@ -300,10 +300,20 @@
 
 ## Day018 —— 2023.1.6
 
-### labuladong —— 队列&栈 —— 队列
+### labuladong —— 队列&栈 —— 栈
 
 #### p316 去除重复元素
 
 [题目详情](https://leetcode.cn/problems/remove-duplicate-letters/description/)
 
-[题目解答——单调队列](src/main/java/com/datastructure/string/p316/java/stack/Solution.md)
+[题目解答——单调栈](src/main/java/com/datastructure/string/p316/java/stack/Solution.md)
+
+## Day019 —— 2023.1.7
+
+### labuladong —— 队列&栈 —— LinkedHashMap
+
+#### p146 LRU 缓存
+
+[题目详情](https://leetcode.cn/problems/lru-cache/description/)
+
+[题目解答——LinkedHashMap](src/main/java/com/datastructure/linkedList/p146/java/cache/Solution.md)
