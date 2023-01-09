@@ -310,10 +310,31 @@
 
 ## Day019 —— 2023.1.7
 
-### labuladong —— 队列&栈 —— LinkedHashMap
+### labuladong —— 数据结构设计 —— LinkedHashMap
 
 #### p146 LRU 缓存
 
 [题目详情](https://leetcode.cn/problems/lru-cache/description/)
 
 [题目解答——LinkedHashMap](src/main/java/com/datastructure/linkedList/p146/java/cache/Solution.md)
+
+## Day020 —— 2023.1.8
+
+### labuladong —— 数据结构设计 —— HashMap & LinkedHashSet
+
+#### p460 LFU 缓存
+
+[题目详情](https://leetcode.cn/problems/lfu-cache/)
+
+[题目解答——LinkedHashSet](src/main/java/com/datastructure/linkedList/p460/java/hashMap/Solution.md)
+
+## Day021 —— 2023.1.9
+
+### labuladong —— 数据结构设计 —— ArrayList & HashMap
+
+#### p380 O(1) 时间插入、删除和获取随机元素
+
+[题目详情](https://leetcode.cn/problems/insert-delete-getrandom-o1/description/)
+
+[题目解答——ArrayList](src/main/java/com/datastructure/array/p380/java/hashMapAndArrayList/Solution.md)
+
