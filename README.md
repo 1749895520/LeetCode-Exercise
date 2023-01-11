@@ -338,3 +338,20 @@
 
 [题目解答——ArrayList](src/main/java/com/datastructure/array/p380/java/hashMapAndArrayList/Solution.md)
 
+## Day022 —— 2023.1.11
+
+### labuladong —— 数据结构设计 —— HashMap
+
+#### p710 黑名单中的随机数
+
+[题目详情](https://leetcode.cn/problems/random-pick-with-blacklist/description/)
+
+[题目解答——HashMap](src/main/java/com/datastructure/array/p710/java/hashMap/Solution.md)
+
+### labuladong —— 数据结构设计 —— PriorityQueue
+
+#### p295 数据流的中位数
+
+[题目详情](https://leetcode.cn/problems/find-median-from-data-stream/description/)
+
+[题目解答——PriorityQueue](src/main/java/com/datastructure/queue/p295/java/priorityQueue/Solution.md)
