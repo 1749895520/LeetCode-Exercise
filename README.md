@@ -355,3 +355,13 @@
 [题目详情](https://leetcode.cn/problems/find-median-from-data-stream/description/)
 
 [题目解答——PriorityQueue](src/main/java/com/datastructure/queue/p295/java/priorityQueue/Solution.md)
+
+## Day023 —— 2023.1.12
+
+### labuladong —— 数据结构设计 —— String
+
+#### p224 基本计算器
+
+[题目详情](https://leetcode.cn/problems/basic-calculator/description/)
+
+[题目解答——String](src/main/java/com/datastructure/string/p224/java/string/Solution.md)
